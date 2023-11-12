@@ -1,0 +1,6 @@
+{
+    "completionsEndpoint": "https://api.openai.com/v1/chat/completions",
+    "completionModel": "gpt-4-vision-preview",
+    "completionMaxTokens": "300",
+    "apiKey": "[YOUR API KEY HERE]"
+}
