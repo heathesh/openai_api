@@ -26,6 +26,10 @@ go run .
 4. Once the app runs, you will be asked for the prompt you wish to use, enter the prompt and the response will be generated and outputted to the screen as well as saved to the _output.md_ file.
 5. If you have a markdown viewer installed, you can then use it to view the output.md file to see a more readable version of the Open AI API response.
 
+## Example run
+
+To see this in action, I've created a 33 second video showing it working: https://www.youtube.com/watch?v=gGDn_IqoyD0
+
 ## Future plans
 
 I am hoping to update this app to allow people to chose which of the Open AI API endpoints to call, e.g. dall-e for Image Generation etc.
