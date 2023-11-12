@@ -11,7 +11,7 @@ To use this app, you must have the following:
 3. An Open API Key (see https://platform.openai.com/api-keys).
 4. Optional: A markdown viewer app installed on your computer.
 
-## Recommended usgage
+## Recommended usage
 
 To use this app:
 
